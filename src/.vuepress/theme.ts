@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://zbkc.yysjzl.cn:38005/default/20260110/d7182b89193a4be3813b1271001692e9.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -74,7 +74,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": {
-        hint: "Password: 1234",
+        hint: "Password: ",
         password: "1234",
       },
     },
