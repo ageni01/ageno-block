@@ -197,7 +197,7 @@ VuePress Theme Hope !!十分强大!!.
 
 #### 样式化
 
-向 Mr.Hope 捐赠一杯咖啡。 _Recommended_
+向 ageno 捐赠一杯咖啡。 _Recommended_
 
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/stylize/stylize.html)
 

@@ -7,8 +7,8 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "ageno",
+    url: "",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
@@ -29,7 +29,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "bug制造者",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
