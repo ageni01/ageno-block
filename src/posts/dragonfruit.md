@@ -2,14 +2,14 @@
 icon: pen-to-square
 date: 2022-01-10
 category:
-  - 火龙果
-  - 水果
+  - C++
+  - C
 tag:
-  - 红
-  - 大
+  - 多线程
+  - 
 ---
 
-# 火龙果
+# C++
 
 ## 标题 2
 

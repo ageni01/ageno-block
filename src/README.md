@@ -3,10 +3,10 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroImage: https://zbkc.yysjzl.cn:38005/default/20260110/d7182b89193a4be3813b1271001692e9.jpg
+heroText: ageno
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 学习永无止境，代码驱动未来
 projects:
   - icon: folder-open
     name: 项目名称
