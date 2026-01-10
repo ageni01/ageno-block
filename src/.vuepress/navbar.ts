@@ -43,7 +43,7 @@ export default navbar([
       {
         text: "java",
         icon: "pen-to-square",
-        prefix: "java/",// 子菜单
+        prefix: "Java/",// 子菜单
         children: [
           {
             text: "多线程-暂无",
