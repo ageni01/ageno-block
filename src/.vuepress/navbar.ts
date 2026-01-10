@@ -31,6 +31,7 @@ export default navbar([
       { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       "tomato",
       "strawberry",
+      "unreal",
     ],
   }
 ]);
