@@ -30,8 +30,18 @@ export default navbar([
       { text: "樱桃", icon: "pen-to-square", link: "cherry" },
       { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       "tomato",
-      "strawberry",
-      "unreal",
+      {
+        text: "虚幻",
+        icon: "pen-to-square",
+        prefix: "unreal/",
+        children: [
+          {
+            text: "基础知识1",
+            icon: "pen-to-square",
+            link: "1",
+          },
+        ],
+      }
     ],
   }
 ]);
