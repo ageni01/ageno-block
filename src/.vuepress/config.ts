@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/ageno-block",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "ageno-block",
+  description: "ageno-block 的博客",
 
   theme,
 
