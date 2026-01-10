@@ -31,12 +31,24 @@ export default navbar([
       {
         text: "虚幻",
         icon: "pen-to-square",
-        prefix: "unreal/",
+        prefix: "unreal/",// 子菜单
         children: [
           {
             text: "基础知识1",
             icon: "pen-to-square",
-            link: "1",
+            link: "BasicUC++", // 链接,或者md的名称
+          },
+        ],
+      },
+      {
+        text: "java",
+        icon: "pen-to-square",
+        prefix: "java/",// 子菜单
+        children: [
+          {
+            text: "多线程-暂无",
+            icon: "pen-to-square",
+            link: "BasicUC++", // 链接,或者md的名称
           },
         ],
       }
