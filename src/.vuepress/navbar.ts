@@ -48,7 +48,7 @@ export default navbar([
           {
             text: "多线程-暂无",
             icon: "pen-to-square",
-            link: "BasicUC++", // 链接,或者md的名称
+            link: "Lern", // 链接,或者md的名称
           },
         ],
       }
