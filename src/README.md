@@ -6,22 +6,17 @@ title: 博客主页
 heroImage: https://zbkc.yysjzl.cn:38005/default/20260110/d7182b89193a4be3813b1271001692e9.jpg
 heroText: ageno
 heroFullScreen: true
-tagline: 学习永无止境，代码驱动未来
+tagline: 你都不知道山有多高,怎么知道终点在哪儿!
 projects:
   - icon: folder-open
-    name: 项目名称
+    name: 云阳违法用地
     desc: 项目详细描述
-    link: https://你的项目链接
+    link: https://zbkc.yysjzl.cn:20077
 
   - icon: link
     name: 链接名称
     desc: 链接详细描述
     link: https://链接地址
-
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
 
   - icon: newspaper
     name: 文章名称
