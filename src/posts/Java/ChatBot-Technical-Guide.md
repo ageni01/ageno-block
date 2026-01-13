@@ -1,3 +1,16 @@
+---
+cover: /assets/images/cover2.jpg
+icon: pen-to-square
+date: 2026-01-2
+category:
+  - 接入第ai
+tag:
+  - aichat
+  - 多线程
+star: true
+sticky: true
+---
+
 # 基于Spring Boot + WebFlux的DeepSeek聊天机器人项目技术详解
 
 ## 项目概述
