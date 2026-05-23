@@ -16,20 +16,17 @@ export default navbar([
           {
             text: "基础",
             icon: "pen-to-square",
-            prefix: "基础/",
             link: "1",
           },
           {
             text: "qt",
             icon: "pen-to-square",
             link: "2",
-            prefix: "qt/",
           },
           {
             text: "socket",
             icon: "pen-to-square",
             link: "3",
-            prefix: "socket/",
           },
         ],
       },
