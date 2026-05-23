@@ -8,25 +8,31 @@ export default navbar([
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
-      // {
-      //   text: "香蕉",
-      //   icon: "pen-to-square",
-      //   prefix: "banana/",
-      //   children: [
-      //     {
-      //       text: "香蕉 1",
-      //       icon: "pen-to-square",
-      //       link: "1",
-      //     },
-      //     {
-      //       text: "香蕉 2",
-      //       icon: "pen-to-square",
-      //       link: "2",
-      //     },
-      //     "3",
-      //     "4",
-      //   ],
-      // },
+      {
+        text: "C++",
+        icon: "pen-to-square",
+        prefix: "c++/",
+        children: [
+          {
+            text: "基础",
+            icon: "pen-to-square",
+            prefix: "基础/",
+            link: "1",
+          },
+          {
+            text: "qt",
+            icon: "pen-to-square",
+            link: "2",
+            prefix: "qt/",
+          },
+          {
+            text: "socket",
+            icon: "pen-to-square",
+            link: "3",
+            prefix: "socket/",
+          },
+        ],
+      },
       // "tomato",
       {
         text: "虚幻",

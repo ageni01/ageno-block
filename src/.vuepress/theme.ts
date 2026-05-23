@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "",
   },
 
-  logo: "https://zbkc.yysjzl.cn:38005/default/20260110/d7182b89193a4be3813b1271001692e9.jpg",
+  logo: "https://zbkc.yysjzl.cn:38005/default/20250820/%E5%A4%AA%E6%9E%81.png?Content-Disposition=attachment%3B%20filename%3D%2220250820%2F%E5%A4%AA%E6%9E%81.png%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20260523%2F%2Fs3%2Faws4_request&X-Amz-Date=20260523T072722Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=814968e26191838a64a4b2092bf6ef88b1db348b2b1e51b9b0495478c1c34ef5",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -32,7 +32,6 @@ export default hopeTheme({
     description: "bug制造者",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
       BiliBili: "https://example.com",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
