@@ -1,3 +1,16 @@
+---
+cover: /assets/images/cover2.jpg
+icon: pen-to-square
+date: 2026-05-2
+category:
+  - C++
+tag:
+  - C++
+star: true
+sticky: true
+---
+
+
 # C++98 完整基础教程
 
 ## 1. 文档定位

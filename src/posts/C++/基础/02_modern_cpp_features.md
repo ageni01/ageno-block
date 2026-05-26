@@ -1,3 +1,18 @@
+
+---
+cover: /assets/images/cover2.jpg
+icon: pen-to-square
+date: 2026-05-20
+category:
+  - C++
+tag:
+  - 新特性
+  - C++11-17
+star: true
+sticky: true
+---
+
+
 # 现代 C++ 新特性详解
 
 ## 1. 文档范围

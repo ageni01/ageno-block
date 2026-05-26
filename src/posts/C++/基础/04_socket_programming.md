@@ -1,3 +1,16 @@
+---
+cover: /assets/images/cover2.jpg
+icon: pen-to-square
+date: 2026-01-2
+category:
+  - 套接字
+tag:
+  - IO
+star: true
+sticky: true
+---
+
+
 # C++ Socket 套接字编程详解
 
 ## 1. 文档目标
