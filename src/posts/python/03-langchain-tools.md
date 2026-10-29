@@ -1,3 +1,11 @@
+---
+title: "LangChain Tools — 给大模型编写工具"
+
+category:
+  - AI 应用
+tag:
+  - AI 应用
+---
 # LangChain Tools — 给大模型编写工具
 
 > **这是搭建智能体的核心环节。** Tools 是大模型连接外部世界的"手"——有了 Tools，LLM 才能查天气、算数学、读写文件、调用 API、执行代码。

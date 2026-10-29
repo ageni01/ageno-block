@@ -1,3 +1,11 @@
+---
+title: "Java 安全框架与 RBAC 实战详解"
+
+category:
+  - Java
+tag:
+  - Java
+---
 # Java 安全框架与 RBAC 实战详解
 
 > 面向 Spring Security、Apache Shiro、Sa-Token 的选型、内部架构、快速上手与深度定制。示例以 Java 17、Spring Boot 3.x、Spring Security 6.x 为主；Shiro 与 Sa-Token API 会注明常见版本差异。

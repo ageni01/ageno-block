@@ -1,3 +1,11 @@
+---
+title: "LangChain 基础详解"
+
+category:
+  - AI 应用
+tag:
+  - AI 应用
+---
 # LangChain 基础详解
 
 > LangChain 是一个构建 LLM 应用的框架，核心概念：**模型 (Models)**、**提示 (Prompts)**、**链 (Chains)**、**记忆 (Memory)**、**工具 (Tools)**、**智能体 (Agents)**。

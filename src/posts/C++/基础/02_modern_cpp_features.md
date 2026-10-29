@@ -1,3 +1,11 @@
+---
+title: "现代 C++ 新特性详解"
+
+category:
+  - C++
+tag:
+  - C++
+---
 
 ---
 cover: /assets/images/cover2.jpg

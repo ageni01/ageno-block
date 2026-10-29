@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/ageno-block",
+  base: "/ageno-block/",
 
   lang: "zh-CN",
   title: "ageno-block",

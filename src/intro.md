@@ -1,4 +1,6 @@
 ---
+title: 关于我
+article: false
 icon: circle-info
 cover: /assets/images/cover3.jpg
 ---

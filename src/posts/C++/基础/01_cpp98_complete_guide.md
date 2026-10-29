@@ -1,13 +1,12 @@
 ---
+title: "C++98 完整基础教程"
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2026-05-2
+date: 2026-05-02
 category:
   - C++
 tag:
   - C++
-star: true
-sticky: true
 ---
 
 

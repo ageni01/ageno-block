@@ -1,3 +1,11 @@
+---
+title: "LangGraph 基础详解"
+
+category:
+  - AI 应用
+tag:
+  - AI 应用
+---
 # LangGraph 基础详解
 
 > **LangGraph 是 LangChain 团队推出的 Agent 框架**，用**图 (Graph)** 来定义 Agent 的执行流程。相比传统的 `AgentExecutor`，LangGraph 更灵活、可控、可观察。

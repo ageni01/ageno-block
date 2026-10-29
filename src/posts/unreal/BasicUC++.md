@@ -1,14 +1,12 @@
 ---
+title: "虚幻C++"
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2026-01-1
+date: 2026-01-01
 category:
-  - 虚幻C++
+  - Unreal Engine
 tag:
-  - Unreal
-  - C++
-star: true
-sticky: true
+  - Unreal Engine
 ---
 
 # 虚幻C++

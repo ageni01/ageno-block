@@ -1,3 +1,11 @@
+---
+title: "UE5 C++：子系统、Actor、组件、插件与智能指针"
+
+category:
+  - Unreal Engine
+tag:
+  - Unreal Engine
+---
 # UE5 C++：子系统、Actor、组件、插件与智能指针
 
 本文以 UE5 的常见游戏项目为背景，说明“功能应该放在哪里”、如何写出可用的 C++ 骨架，以及对象引用应如何选择。示例中的 `MYGAME_API` 请替换成你的模块 API 宏。

@@ -1,3 +1,11 @@
+---
+title: "Python 基础详解"
+
+category:
+  - Python
+tag:
+  - Python
+---
 # Python 基础详解
 
 > 本文档面向 Python 初学者和进阶者，系统性地讲解 Python 基础语法、常用数据结构与内置库。所有示例均配有详细注释。

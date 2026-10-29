@@ -1,4 +1,5 @@
 ---
+article: false
 title: Markdown 展示
 icon: fa6-brands:markdown
 order: 2

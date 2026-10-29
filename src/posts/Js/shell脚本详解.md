@@ -1,3 +1,11 @@
+---
+title: "Shell 脚本编写详解文档"
+
+category:
+  - 命令行
+tag:
+  - 命令行
+---
 # Shell 脚本编写详解文档
 > 适用系统：Linux / macOS / Unix 类系统
 > Shell 类型：Bash（最常用）

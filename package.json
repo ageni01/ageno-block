@@ -8,7 +8,10 @@
     "docs:build": "vuepress-webpack build src",
     "docs:clean-dev": "vuepress-webpack dev src --clean-cache",
     "docs:dev": "vuepress-webpack dev src",
-    "docs:update-package": "npx vp-update"
+    "docs:update-package": "npx vp-update",
+    "dev": "npm run docs:dev",
+    "build": "npm run docs:build",
+    "post:new": "node scripts/new-post.mjs"
   },
   "devDependencies": {
     "@vuepress/bundler-webpack": "2.0.0-rc.26",

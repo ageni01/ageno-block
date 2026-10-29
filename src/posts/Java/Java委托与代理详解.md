@@ -1,3 +1,11 @@
+---
+title: "Java 委托与代理详解"
+
+category:
+  - Java
+tag:
+  - Java
+---
 # Java 委托与代理详解
 
 ---

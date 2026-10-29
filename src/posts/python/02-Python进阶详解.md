@@ -1,3 +1,11 @@
+---
+title: "Python 进阶详解"
+
+category:
+  - Python
+tag:
+  - Python
+---
 # Python 进阶详解
 
 > 本文档深入讲解 Python 的面向对象编程（OOP）和文件输入输出，涵盖类与对象的核心机制、继承、多态、异常处理以及各种文件操作。

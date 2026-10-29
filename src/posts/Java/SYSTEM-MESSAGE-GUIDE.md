@@ -1,14 +1,12 @@
 ---
+title: "系统消息(System Message)功能使用指南"
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2026-01-2
+date: 2026-01-02
 category:
-  - 接入ai
+  - AI 应用
 tag:
-  - ai
-  - chatbot
-star: true
-sticky: true
+  - AI 应用
 ---
 
 # 系统消息(System Message)功能使用指南

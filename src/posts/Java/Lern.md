@@ -1,14 +1,12 @@
 ---
+title: "Java多线程"
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2026-01-2
+date: 2026-01-02
 category:
-  - Java多线程
+  - Java
 tag:
-  - IO
-  - 多线程
-star: true
-sticky: true
+  - Java
 ---
 
 # Java多线程

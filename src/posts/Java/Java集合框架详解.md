@@ -1,3 +1,11 @@
+---
+title: "Java 集合框架详解 — Map、Set、List 与高并发"
+
+category:
+  - Java
+tag:
+  - Java
+---
 # Java 集合框架详解 — Map、Set、List 与高并发
 
 ---

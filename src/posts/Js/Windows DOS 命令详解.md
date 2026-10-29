@@ -1,3 +1,11 @@
+---
+title: "Windows DOS 命令详解文档"
+
+category:
+  - 命令行
+tag:
+  - 命令行
+---
 # Windows DOS 命令详解文档
 > 适用环境：Windows 命令提示符 (cmd.exe)
 > 也适用于：Windows PowerShell（多数命令兼容）

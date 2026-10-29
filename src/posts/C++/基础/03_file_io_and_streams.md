@@ -1,14 +1,12 @@
 ---
+title: "C++ 文件操作、IO 与流详解"
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2026-01-2
+date: 2026-01-02
 category:
-  - 文件io
   - C++
 tag:
-  - IO
-star: true
-sticky: true
+  - C++
 ---
 
 

@@ -1,14 +1,12 @@
 ---
+title: "mybatis-xml-sql"
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2026-01-2
+date: 2026-01-02
 category:
-  - mybatis
-  - xml的sql
+  - Java
 tag:
-  - 基础的使用
-star: true
-sticky: true
+  - Java
 ---
 
 # mybatis-xml-sql

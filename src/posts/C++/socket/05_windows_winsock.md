@@ -1,3 +1,11 @@
+---
+title: "05. Windows Winsock 从 0 开始"
+
+category:
+  - C++
+tag:
+  - C++
+---
 # 05. Windows Winsock 从 0 开始
 
 ## 1. Windows socket 和 Linux/macOS socket 不完全一样

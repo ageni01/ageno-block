@@ -1,3 +1,11 @@
+---
+title: "Netty 详解与实战"
+
+category:
+  - Java
+tag:
+  - Java
+---
 # Netty 详解与实战
 
 > 涵盖：核心组件、自定义协议、内置协议（HTTP/WebSocket/gRPC/SSL）、编解码、零拷贝、内存管理、最佳实践

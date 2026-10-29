@@ -1,3 +1,11 @@
+---
+title: "Python 核心机制详解"
+
+category:
+  - Python
+tag:
+  - Python
+---
 # Python 核心机制详解
 
 > 本文档深入讲解 Python 中必须要掌握的核心编程机制：魔法方法（`__dunder__`）、类型提示（Type Hints）、类型注解、以及元编程（元类与反射）。

@@ -1,13 +1,12 @@
 ---
+title: "C++ Socket 套接字编程详解"
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2026-01-2
+date: 2026-01-02
 category:
-  - 套接字
+  - C++
 tag:
-  - IO
-star: true
-sticky: true
+  - C++
 ---
 
 

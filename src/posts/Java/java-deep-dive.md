@@ -1,3 +1,11 @@
+---
+title: "Java 深入浅出：多线程、AOP、锁、Spring、Netty 源码级分析"
+
+category:
+  - Java
+tag:
+  - Java
+---
 # Java 深入浅出：多线程、AOP、锁、Spring、Netty 源码级分析
 
 > 本文从 JDK 源码、Spring 源码、Netty 源码层面深入剖析 Java 核心技术，涵盖多线程、AOP、锁机制、Spring IoC/AOP/事务、Spring Boot 自动配置、Netty 架构与自定义协议、Socket 编程等核心主题。

@@ -1,3 +1,11 @@
+---
+title: "uv — 下一代 Python 包管理器"
+
+category:
+  - Python
+tag:
+  - Python
+---
 # uv — 下一代 Python 包管理器
 
 > uv 是用 Rust 编写的极速 Python 包管理器和项目管理工具，对标 pip + poetry + virtualenv，速度比 pip 快 10-100 倍。
