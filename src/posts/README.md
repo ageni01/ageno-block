@@ -9,24 +9,35 @@ article: false
 
 ## C++
 
-- [Qt 详细学习教程](./C%2B%2B/qt/qt_detailed_study_guide.md)
-- [01. CMake 从 0 开始](./C%2B%2B/socket/01_cmake_from_zero.md)
-- [02. Socket 从 0 开始](./C%2B%2B/socket/02_socket_from_zero.md)
-- [03. 数据帧与字节序](./C%2B%2B/socket/03_frame_and_byte_order.md)
-- [04. Linux epoll 入门](./C%2B%2B/socket/04_epoll_linux.md)
-- [05. Windows Winsock 从 0 开始](./C%2B%2B/socket/05_windows_winsock.md)
-- [C++98 完整基础教程](./C%2B%2B/基础/01_cpp98_complete_guide.md)
-- [现代 C++ 新特性详解](./C%2B%2B/基础/02_modern_cpp_features.md)
-- [C++ 文件操作、IO 与流详解](./C%2B%2B/基础/03_file_io_and_streams.md)
-- [C++ Socket 套接字编程详解](./C%2B%2B/基础/04_socket_programming.md)
-- [系统网络模型与 epoll 详解](./C%2B%2B/基础/05_system_io_multiplexing_epoll.md)
-- [协议对接、字节处理与数据帧解析详解](./C%2B%2B/基础/06_protocol_frame_parsing.md)
-- [C++ 模板与元编程详解](./C%2B%2B/基础/07_template_metaprogramming.md)
-- [智能指针、移动语义与完美转发详解](./C%2B%2B/基础/08_smart_pointers_move_forwarding.md)
-- [Unreal C++ 详细入门与工程说明](./C%2B%2B/基础/09_unreal_cpp_guide.md)
-- [C++从入门到精通 - C++98到C++23完整教程](./unreal/C%2B%2B从入门到精通-C%2B%2B98到C%2B%2B23完整教程.md)
+- [Qt 详细学习教程](./C++/qt/qt_detailed_study_guide.md)
+- [01. CMake 从 0 开始](./C++/socket/01_cmake_from_zero.md)
+- [02. Socket 从 0 开始](./C++/socket/02_socket_from_zero.md)
+- [03. 数据帧与字节序](./C++/socket/03_frame_and_byte_order.md)
+- [04. Linux epoll 入门](./C++/socket/04_epoll_linux.md)
+- [05. Windows Winsock 从 0 开始](./C++/socket/05_windows_winsock.md)
+- [C++98 完整基础教程](./C++/基础/01_cpp98_complete_guide.md)
+- [现代 C++ 新特性详解](./C++/基础/02_modern_cpp_features.md)
+- [C++ 文件操作、IO 与流详解](./C++/基础/03_file_io_and_streams.md)
+- [C++ Socket 套接字编程详解](./C++/基础/04_socket_programming.md)
+- [系统网络模型与 epoll 详解](./C++/基础/05_system_io_multiplexing_epoll.md)
+- [协议对接、字节处理与数据帧解析详解](./C++/基础/06_protocol_frame_parsing.md)
+- [C++ 模板与元编程详解](./C++/基础/07_template_metaprogramming.md)
+- [智能指针、移动语义与完美转发详解](./C++/基础/08_smart_pointers_move_forwarding.md)
+- [Unreal C++ 详细入门与工程说明](./C++/基础/09_unreal_cpp_guide.md)
+- [C++从入门到精通 - C++98到C++23完整教程](./unreal/C++从入门到精通-C++98到C++23完整教程.md)
 
 ## Java
+
+### Spring 与 Spring MVC：从零理解系列
+
+按顺序学习：手动装配 → 容器与 Bean → 自封装 JDBC → MVC → 事务与 MyBatis。
+
+1. [Spring：手动装配、XML、Bean 与容器原理](./Java/spring/01-spring-container.md)
+2. [自己封装 MySQL 连接与 JDBC](./Java/spring/02-jdbc-mysql.md)
+3. [Spring MVC：Servlet、接口与 XML 配置](./Java/spring/03-spring-mvc.md)
+4. [Spring 事务、JdbcTemplate 与 MyBatis](./Java/spring/04-transactions-mybatis.md)
+
+### 其他 Java 文章
 
 - [JVM虚拟机详解：从入门到精通](./Java/JVM虚拟机详解-从入门到精通.md)
 - [Java从入门到精通 - 完整教程](./Java/Java从入门到精通-完整教程.md)
@@ -72,6 +83,6 @@ article: false
 
 ## Unreal Engine
 
-- [虚幻C++](./unreal/BasicUC%2B%2B.md)
-- [UE5 C++：子系统、Actor、组件、插件与智能指针](./unreal/UE5_C%2B%2B_子系统_Actor_组件_插件与智能指针指南.md)
-- [Unreal Engine C++ — Subsystem、多线程与异步详解](./unreal/UnrealEngine_C%2B%2B_Subsystem与多线程详解.md)
+- [虚幻C++](./unreal/BasicUC++.md)
+- [UE5 C++：子系统、Actor、组件、插件与智能指针](./unreal/UE5_C++_子系统_Actor_组件_插件与智能指针指南.md)
+- [Unreal Engine C++ — Subsystem、多线程与异步详解](./unreal/UnrealEngine_C++_Subsystem与多线程详解.md)

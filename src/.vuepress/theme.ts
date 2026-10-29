@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "",
   },
 
-  logo: "/logo.svg",
+  logo: "/assets/brand/ageno-mark.png",
 
   repo: "ageni01/ageno-block",
   repoDisplay: false,
