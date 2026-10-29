@@ -14,6 +14,7 @@ export default hopeTheme({
   logo: "/logo.svg",
 
   repo: "ageni01/ageno-block",
+  repoDisplay: false,
 
   docsDir: "src",
 
