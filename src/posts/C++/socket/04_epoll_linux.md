@@ -8,6 +8,9 @@ tag:
 ---
 # 04. Linux epoll 入门
 
+> 完整进阶阅读：[TCP、select/poll/epoll 与内核全过程](../io-multiplexing/01-tcp-socket-kernel.md)，附 C/C++ 可运行源码。
+
+
 ## 1. epoll 解决什么问题
 
 第 2 课的服务端是阻塞式写法：

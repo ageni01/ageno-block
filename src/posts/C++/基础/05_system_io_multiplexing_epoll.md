@@ -8,6 +8,9 @@ tag:
 ---
 # 系统网络模型与 epoll 详解
 
+> 完整进阶阅读：[TCP、select/poll/epoll 与内核全过程](../io-multiplexing/01-tcp-socket-kernel.md)，附 C/C++ 可运行源码。
+
+
 ## 1. 文档目标
 
 本文关注系统级网络 IO 模型，包括：
