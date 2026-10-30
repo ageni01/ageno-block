@@ -11,6 +11,13 @@ article: false
 
 ### TCP / Socket / I/O 多路复用完整系列
 
+[打开网络编程学习路线](./C++/io-multiplexing/README.md)
+
+- [Socket 传统与现代写法完整对照](./C++/io-multiplexing/05-socket-old-modern.md)
+- [select 独立实战教程与完整源码](./C++/io-multiplexing/06-select-tutorial.md)
+- [poll 独立实战教程与完整源码](./C++/io-multiplexing/07-poll-tutorial.md)
+- [epoll 独立实战教程与完整源码](./C++/io-multiplexing/08-epoll-tutorial.md)
+
 1. [A 到 B：四元组、内核收包、Socket 与字节序](./C++/io-multiplexing/01-tcp-socket-kernel.md)
 2. [select、poll、epoll API 与设计对比](./C++/io-multiplexing/02-select-poll-epoll.md)
 3. [内核等待队列、LT/ET 与 Reactor](./C++/io-multiplexing/03-kernel-reactor.md)
